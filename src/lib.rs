@@ -17,6 +17,7 @@ use std::io;
 use std::io::Write;
 
 pub fn start_game() {
+    println!("Hello");
     println!("\nIt's a guessing game! Write your guess until it matches the generated random number in the range 1..100");
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
