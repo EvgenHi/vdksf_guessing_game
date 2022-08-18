@@ -1,7 +1,7 @@
 # vdksf stands for \*_not yet invented_\*
 This library makes you able to embed in your project a simple guessing game.
 
-Next version will include message customization.
+Next version will include messages customization.
 
 <details> 
   <summary>What is project purposes?</summary>
